@@ -47,3 +47,6 @@ bind Q quit
 
 # Reload .screenrc
 bind R source ~/.screenrc
+
+# off the flash in case of putty console
+vbell off
